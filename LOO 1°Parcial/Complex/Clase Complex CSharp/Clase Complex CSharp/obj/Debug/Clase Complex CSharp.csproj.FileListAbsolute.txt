@@ -1,0 +1,7 @@
+C:\Users\MedNo\OneDrive\Escritorio\Tarea LOO\Complex\Clase Complex CSharp\Clase Complex CSharp\bin\Debug\Clase Complex CSharp.exe.config
+C:\Users\MedNo\OneDrive\Escritorio\Tarea LOO\Complex\Clase Complex CSharp\Clase Complex CSharp\bin\Debug\Clase Complex CSharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\Tarea LOO\Complex\Clase Complex CSharp\Clase Complex CSharp\bin\Debug\Clase Complex CSharp.pdb
+C:\Users\MedNo\OneDrive\Escritorio\Tarea LOO\Complex\Clase Complex CSharp\Clase Complex CSharp\obj\Debug\Clase Complex CSharp.csprojAssemblyReference.cache
+C:\Users\MedNo\OneDrive\Escritorio\Tarea LOO\Complex\Clase Complex CSharp\Clase Complex CSharp\obj\Debug\Clase Complex CSharp.csproj.CoreCompileInputs.cache
+C:\Users\MedNo\OneDrive\Escritorio\Tarea LOO\Complex\Clase Complex CSharp\Clase Complex CSharp\obj\Debug\Clase Complex CSharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\Tarea LOO\Complex\Clase Complex CSharp\Clase Complex CSharp\obj\Debug\Clase Complex CSharp.pdb

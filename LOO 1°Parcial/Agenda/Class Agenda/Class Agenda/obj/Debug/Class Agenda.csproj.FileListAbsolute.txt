@@ -1,0 +1,7 @@
+C:\Users\MedNo\OneDrive\Escritorio\Class Agenda\Class Agenda\bin\Debug\Class Agenda.exe.config
+C:\Users\MedNo\OneDrive\Escritorio\Class Agenda\Class Agenda\bin\Debug\Class Agenda.exe
+C:\Users\MedNo\OneDrive\Escritorio\Class Agenda\Class Agenda\bin\Debug\Class Agenda.pdb
+C:\Users\MedNo\OneDrive\Escritorio\Class Agenda\Class Agenda\obj\Debug\Class Agenda.csprojAssemblyReference.cache
+C:\Users\MedNo\OneDrive\Escritorio\Class Agenda\Class Agenda\obj\Debug\Class Agenda.csproj.CoreCompileInputs.cache
+C:\Users\MedNo\OneDrive\Escritorio\Class Agenda\Class Agenda\obj\Debug\Class Agenda.exe
+C:\Users\MedNo\OneDrive\Escritorio\Class Agenda\Class Agenda\obj\Debug\Class Agenda.pdb

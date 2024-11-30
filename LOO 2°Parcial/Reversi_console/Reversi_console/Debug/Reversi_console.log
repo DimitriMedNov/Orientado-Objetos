@@ -1,0 +1,26 @@
+﻿Build started 15-05-2017 16:33:02.
+     1>Project "C:\Users\bhati\Downloads\Reversi_console\Reversi_console\Reversi_console.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Reversi_console.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GUI.cpp main.cpp PlayerAI.cpp Reversi.cpp SDL_Button.cpp
+         SDL_Button.cpp
+     1>c:\users\bhati\downloads\reversi_console\reversi_console\sdl_button.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         Reversi.cpp
+     1>c:\users\bhati\downloads\reversi_console\reversi_console\gui.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         PlayerAI.cpp
+     1>c:\users\bhati\downloads\reversi_console\reversi_console\playerai.cpp(30): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bhati\downloads\reversi_console\reversi_console\playerai.cpp(77): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bhati\downloads\reversi_console\reversi_console\playerai.cpp(160): warning C4554: '^' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\bhati\downloads\reversi_console\reversi_console\playerai.cpp(272): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bhati\downloads\reversi_console\reversi_console\playerai.cpp(276): warning C4018: '<' : signed/unsigned mismatch
+         main.cpp
+     1>c:\users\bhati\downloads\reversi_console\reversi_console\gui.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         GUI.cpp
+     1>c:\users\bhati\downloads\reversi_console\reversi_console\gui.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\bhati\Downloads\Reversi_console\Reversi_console\Reversi_console.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.89

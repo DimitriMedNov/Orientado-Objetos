@@ -1,0 +1,7 @@
+C:\Users\MedNo\OneDrive\Escritorio\CLASS POINT3D\CLASS POINT3D\bin\Debug\CLASS POINT3D.exe.config
+C:\Users\MedNo\OneDrive\Escritorio\CLASS POINT3D\CLASS POINT3D\bin\Debug\CLASS POINT3D.exe
+C:\Users\MedNo\OneDrive\Escritorio\CLASS POINT3D\CLASS POINT3D\bin\Debug\CLASS POINT3D.pdb
+C:\Users\MedNo\OneDrive\Escritorio\CLASS POINT3D\CLASS POINT3D\obj\Debug\CLASS POINT3D.csprojAssemblyReference.cache
+C:\Users\MedNo\OneDrive\Escritorio\CLASS POINT3D\CLASS POINT3D\obj\Debug\CLASS POINT3D.csproj.CoreCompileInputs.cache
+C:\Users\MedNo\OneDrive\Escritorio\CLASS POINT3D\CLASS POINT3D\obj\Debug\CLASS POINT3D.exe
+C:\Users\MedNo\OneDrive\Escritorio\CLASS POINT3D\CLASS POINT3D\obj\Debug\CLASS POINT3D.pdb

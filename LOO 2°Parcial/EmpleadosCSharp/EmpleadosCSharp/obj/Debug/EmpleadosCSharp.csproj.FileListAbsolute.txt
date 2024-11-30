@@ -1,0 +1,7 @@
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\EmpleadosCSharp\EmpleadosCSharp\bin\Debug\EmpleadosCSharp.exe.config
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\EmpleadosCSharp\EmpleadosCSharp\bin\Debug\EmpleadosCSharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\EmpleadosCSharp\EmpleadosCSharp\bin\Debug\EmpleadosCSharp.pdb
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\EmpleadosCSharp\EmpleadosCSharp\obj\Debug\EmpleadosCSharp.csprojAssemblyReference.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\EmpleadosCSharp\EmpleadosCSharp\obj\Debug\EmpleadosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\EmpleadosCSharp\EmpleadosCSharp\obj\Debug\EmpleadosCSharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\EmpleadosCSharp\EmpleadosCSharp\obj\Debug\EmpleadosCSharp.pdb

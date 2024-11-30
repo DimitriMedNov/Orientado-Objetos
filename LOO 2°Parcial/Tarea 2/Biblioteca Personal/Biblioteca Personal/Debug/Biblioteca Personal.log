@@ -1,0 +1,5 @@
+﻿  Biblioteca Personal.cpp
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 2\Biblioteca Personal\Biblioteca Personal\Biblioteca Personal.cpp(8,11): warning C4101: 'year': variable local sin referencia
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 2\Biblioteca Personal\Biblioteca Personal\Biblioteca Personal.cpp(8,7): warning C4101: 'ci': variable local sin referencia
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 2\Biblioteca Personal\Biblioteca Personal\Biblioteca Personal.cpp(8,17): warning C4101: 'volumen': variable local sin referencia
+  Biblioteca Personal.vcxproj -> C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 2\Biblioteca Personal\Debug\Biblioteca Personal.exe

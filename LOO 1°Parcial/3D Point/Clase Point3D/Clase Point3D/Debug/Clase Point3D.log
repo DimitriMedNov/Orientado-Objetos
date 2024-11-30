@@ -1,0 +1,5 @@
+﻿  Clase Point3D.cpp
+C:\Users\MedNo\OneDrive\Escritorio\Tarea LOO\3D Point\Clase Point3D\Clase Point3D\Clase Point3D.cpp(31,64): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\MedNo\OneDrive\Escritorio\Tarea LOO\3D Point\Clase Point3D\Clase Point3D\Clase Point3D.cpp(32,64): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\MedNo\OneDrive\Escritorio\Tarea LOO\3D Point\Clase Point3D\Clase Point3D\Clase Point3D.cpp(33,64): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Clase Point3D.vcxproj -> C:\Users\MedNo\OneDrive\Escritorio\Tarea LOO\3D Point\Clase Point3D\Debug\Clase Point3D.exe

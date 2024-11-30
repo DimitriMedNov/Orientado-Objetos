@@ -1,0 +1,7 @@
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\TemplateClassCSharp\TemplateClassCSharp\bin\Debug\TemplateClassCSharp.exe.config
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\TemplateClassCSharp\TemplateClassCSharp\bin\Debug\TemplateClassCSharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\TemplateClassCSharp\TemplateClassCSharp\bin\Debug\TemplateClassCSharp.pdb
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\TemplateClassCSharp\TemplateClassCSharp\obj\Debug\GenericClass.csprojAssemblyReference.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\TemplateClassCSharp\TemplateClassCSharp\obj\Debug\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\TemplateClassCSharp\TemplateClassCSharp\obj\Debug\TemplateClassCSharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\TemplateClassCSharp\TemplateClassCSharp\obj\Debug\TemplateClassCSharp.pdb

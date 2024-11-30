@@ -1,0 +1,7 @@
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 2\Biblioteca Personal Csharp\Biblioteca Personal Csharp\obj\Debug\Biblioteca Personal Csharp.csprojAssemblyReference.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 2\Biblioteca Personal Csharp\Biblioteca Personal Csharp\obj\Debug\Biblioteca Personal Csharp.csproj.CoreCompileInputs.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 2\Biblioteca Personal Csharp\Biblioteca Personal Csharp\bin\Debug\Biblioteca Personal Csharp.exe.config
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 2\Biblioteca Personal Csharp\Biblioteca Personal Csharp\bin\Debug\Biblioteca Personal Csharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 2\Biblioteca Personal Csharp\Biblioteca Personal Csharp\bin\Debug\Biblioteca Personal Csharp.pdb
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 2\Biblioteca Personal Csharp\Biblioteca Personal Csharp\obj\Debug\Biblioteca Personal Csharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 2\Biblioteca Personal Csharp\Biblioteca Personal Csharp\obj\Debug\Biblioteca Personal Csharp.pdb

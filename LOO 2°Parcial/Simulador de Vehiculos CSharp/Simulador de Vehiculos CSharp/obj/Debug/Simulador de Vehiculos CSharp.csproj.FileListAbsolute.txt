@@ -1,0 +1,7 @@
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehiculos CSharp\Simulador de Vehiculos CSharp\obj\Debug\Simulador de Vehiculos CSharp.csprojAssemblyReference.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehiculos CSharp\Simulador de Vehiculos CSharp\obj\Debug\Simulador de Vehiculos CSharp.csproj.CoreCompileInputs.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehiculos CSharp\Simulador de Vehiculos CSharp\bin\Debug\Simulador de Vehiculos CSharp.exe.config
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehiculos CSharp\Simulador de Vehiculos CSharp\bin\Debug\Simulador de Vehiculos CSharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehiculos CSharp\Simulador de Vehiculos CSharp\bin\Debug\Simulador de Vehiculos CSharp.pdb
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehiculos CSharp\Simulador de Vehiculos CSharp\obj\Debug\Simulador de Vehiculos CSharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehiculos CSharp\Simulador de Vehiculos CSharp\obj\Debug\Simulador de Vehiculos CSharp.pdb

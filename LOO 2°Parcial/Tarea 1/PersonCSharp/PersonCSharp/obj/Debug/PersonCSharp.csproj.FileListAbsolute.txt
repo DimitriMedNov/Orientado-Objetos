@@ -1,0 +1,7 @@
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 1\PersonCSharp\PersonCSharp\bin\Debug\PersonCSharp.exe.config
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 1\PersonCSharp\PersonCSharp\bin\Debug\PersonCSharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 1\PersonCSharp\PersonCSharp\bin\Debug\PersonCSharp.pdb
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 1\PersonCSharp\PersonCSharp\obj\Debug\PersonCSharp.csprojAssemblyReference.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 1\PersonCSharp\PersonCSharp\obj\Debug\PersonCSharp.csproj.CoreCompileInputs.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 1\PersonCSharp\PersonCSharp\obj\Debug\PersonCSharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 1\PersonCSharp\PersonCSharp\obj\Debug\PersonCSharp.pdb

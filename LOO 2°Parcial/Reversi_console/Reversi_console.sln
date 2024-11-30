@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reversi_console", "Reversi_console\Reversi_console.vcxproj", "{902C60F3-81C0-4637-9D55-5194F826F0E4}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup1", "Setup1\Setup1.isproj", "{6F6DD832-855D-483A-937A-F1C567C91486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Win32 = CD_ROM|Win32
+		Debug|Win32 = Debug|Win32
+		DVD-5|Win32 = DVD-5|Win32
+		Release|Win32 = Release|Win32
+		SingleImage|Win32 = SingleImage|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{902C60F3-81C0-4637-9D55-5194F826F0E4}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{902C60F3-81C0-4637-9D55-5194F826F0E4}.CD_ROM|Win32.Build.0 = Release|Win32
+		{902C60F3-81C0-4637-9D55-5194F826F0E4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{902C60F3-81C0-4637-9D55-5194F826F0E4}.Debug|Win32.Build.0 = Debug|Win32
+		{902C60F3-81C0-4637-9D55-5194F826F0E4}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{902C60F3-81C0-4637-9D55-5194F826F0E4}.DVD-5|Win32.Build.0 = Debug|Win32
+		{902C60F3-81C0-4637-9D55-5194F826F0E4}.Release|Win32.ActiveCfg = Release|Win32
+		{902C60F3-81C0-4637-9D55-5194F826F0E4}.Release|Win32.Build.0 = Release|Win32
+		{902C60F3-81C0-4637-9D55-5194F826F0E4}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{902C60F3-81C0-4637-9D55-5194F826F0E4}.SingleImage|Win32.Build.0 = Release|Win32
+		{6F6DD832-855D-483A-937A-F1C567C91486}.CD_ROM|Win32.ActiveCfg = CD_ROM
+		{6F6DD832-855D-483A-937A-F1C567C91486}.CD_ROM|Win32.Build.0 = CD_ROM
+		{6F6DD832-855D-483A-937A-F1C567C91486}.Debug|Win32.ActiveCfg = DVD-5
+		{6F6DD832-855D-483A-937A-F1C567C91486}.Debug|Win32.Build.0 = DVD-5
+		{6F6DD832-855D-483A-937A-F1C567C91486}.DVD-5|Win32.ActiveCfg = DVD-5
+		{6F6DD832-855D-483A-937A-F1C567C91486}.DVD-5|Win32.Build.0 = DVD-5
+		{6F6DD832-855D-483A-937A-F1C567C91486}.Release|Win32.ActiveCfg = SingleImage
+		{6F6DD832-855D-483A-937A-F1C567C91486}.Release|Win32.Build.0 = SingleImage
+		{6F6DD832-855D-483A-937A-F1C567C91486}.SingleImage|Win32.ActiveCfg = SingleImage
+		{6F6DD832-855D-483A-937A-F1C567C91486}.SingleImage|Win32.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

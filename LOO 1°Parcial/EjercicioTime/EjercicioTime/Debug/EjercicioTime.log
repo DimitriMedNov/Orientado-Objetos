@@ -1,0 +1,4 @@
+﻿  EjercicioTime.cpp
+C:\Users\MedNo\OneDrive\Escritorio\EjercicioTime\EjercicioTime\EjercicioTime.cpp(66,12): warning C4101: 'm': variable local sin referencia
+C:\Users\MedNo\OneDrive\Escritorio\EjercicioTime\EjercicioTime\EjercicioTime.cpp(66,15): warning C4101: 's': variable local sin referencia
+  EjercicioTime.vcxproj -> C:\Users\MedNo\OneDrive\Escritorio\EjercicioTime\Debug\EjercicioTime.exe

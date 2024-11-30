@@ -1,0 +1,31 @@
+﻿  Auto.cpp
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Auto.cpp(28,18): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Camion.cpp
+  DemasiadoRapidoException.cpp
+  ExceptionNoValida.cpp
+  Remolque.cpp
+  Simulador de Vehículos.cpp
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Simulador de Vehículos.cpp(6,7): error C2259: "Auto": no se puede crear una instancia de una clase abstract
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Auto.h(6): message : vea la declaración de 'Auto'
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Simulador de Vehículos.cpp(6,7): message : debido a los siguientes miembros:
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Simulador de Vehículos.cpp(6,7): message : 'double Vehiculo::Acelerar(void)': es abstracto
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Vehiculo.h(17): message : vea la declaración de 'Vehiculo::Acelerar'
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Simulador de Vehículos.cpp(6,7): message : 'double Vehiculo::Frenar(void)': es abstracto
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Vehiculo.h(18): message : vea la declaración de 'Vehiculo::Frenar'
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Simulador de Vehículos.cpp(6,12): error C2259: "Auto": no se puede crear una instancia de una clase abstract
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Auto.h(6): message : vea la declaración de 'Auto'
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Simulador de Vehículos.cpp(6,12): message : debido a los siguientes miembros:
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Simulador de Vehículos.cpp(6,12): message : 'double Vehiculo::Acelerar(void)': es abstracto
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Vehiculo.h(17): message : vea la declaración de 'Vehiculo::Acelerar'
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Simulador de Vehículos.cpp(6,12): message : 'double Vehiculo::Frenar(void)': es abstracto
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Vehiculo.h(18): message : vea la declaración de 'Vehiculo::Frenar'
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Simulador de Vehículos.cpp(7,17): error C2660: 'Auto::Acelerar': la función no acepta 0 argumentos
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Auto.h(21,12): message : vea la declaración de 'Auto::Acelerar'
+  Vehiculo.cpp
+  VehiculoDetenidoException.cpp
+  Generando código...
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Camion.cpp(21): error C4716: 'Camion::Acelerar': debe devolver un valor
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Camion.cpp(24): error C4716: 'Camion::Frenar': debe devolver un valor
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Auto.cpp(72): error C4716: 'Auto::To_string': debe devolver un valor
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Auto.cpp(49): warning C4715: 'Auto::Acelerar': no todas las rutas de acceso de control devuelven un valor
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Simulador de Vehículos\Simulador de Vehículos\Auto.cpp(69): warning C4715: 'Auto::Frenar': no todas las rutas de acceso de control devuelven un valor

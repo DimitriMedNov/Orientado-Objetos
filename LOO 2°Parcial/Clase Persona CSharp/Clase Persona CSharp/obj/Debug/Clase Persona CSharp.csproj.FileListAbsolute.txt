@@ -1,0 +1,7 @@
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Clase Persona CSharp\Clase Persona CSharp\bin\Debug\Clase Persona CSharp.exe.config
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Clase Persona CSharp\Clase Persona CSharp\bin\Debug\Clase Persona CSharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Clase Persona CSharp\Clase Persona CSharp\bin\Debug\Clase Persona CSharp.pdb
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Clase Persona CSharp\Clase Persona CSharp\obj\Debug\Clase Persona CSharp.csprojAssemblyReference.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Clase Persona CSharp\Clase Persona CSharp\obj\Debug\Clase Persona CSharp.csproj.CoreCompileInputs.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Clase Persona CSharp\Clase Persona CSharp\obj\Debug\Clase Persona CSharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Clase Persona CSharp\Clase Persona CSharp\obj\Debug\Clase Persona CSharp.pdb

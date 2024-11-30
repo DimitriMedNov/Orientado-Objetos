@@ -1,0 +1,7 @@
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 6\TanqueCsharp\TanqueCsharp\bin\Debug\TanqueCsharp.exe.config
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 6\TanqueCsharp\TanqueCsharp\bin\Debug\TanqueCsharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 6\TanqueCsharp\TanqueCsharp\bin\Debug\TanqueCsharp.pdb
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 6\TanqueCsharp\TanqueCsharp\obj\Debug\TanqueCsharp.csprojAssemblyReference.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 6\TanqueCsharp\TanqueCsharp\obj\Debug\TanqueCsharp.csproj.CoreCompileInputs.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 6\TanqueCsharp\TanqueCsharp\obj\Debug\TanqueCsharp.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\LOO 2°Parcial\Tarea 6\TanqueCsharp\TanqueCsharp\obj\Debug\TanqueCsharp.pdb

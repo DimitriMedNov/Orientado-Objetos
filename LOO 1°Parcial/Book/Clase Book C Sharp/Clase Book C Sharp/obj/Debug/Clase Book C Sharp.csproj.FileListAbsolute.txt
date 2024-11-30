@@ -1,0 +1,2 @@
+C:\Users\MedNo\OneDrive\Escritorio\Clase Book C Sharp\Clase Book C Sharp\obj\Debug\Clase Book C Sharp.csprojAssemblyReference.cache
+C:\Users\MedNo\OneDrive\Escritorio\Clase Book C Sharp\Clase Book C Sharp\obj\Debug\Clase Book C Sharp.csproj.CoreCompileInputs.cache

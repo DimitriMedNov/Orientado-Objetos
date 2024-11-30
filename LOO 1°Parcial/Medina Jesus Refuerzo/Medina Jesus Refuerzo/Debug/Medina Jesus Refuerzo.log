@@ -1,0 +1,14 @@
+﻿  Medina Jesus Refuerzo.cpp
+C:\Users\MedNo\OneDrive\Escritorio\Medina Jesus Refuerzo\Medina Jesus Refuerzo\Medina Jesus Refuerzo.cpp(21,37): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\MedNo\OneDrive\Escritorio\Medina Jesus Refuerzo\Medina Jesus Refuerzo\Medina Jesus Refuerzo.cpp(22,37): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\MedNo\OneDrive\Escritorio\Medina Jesus Refuerzo\Medina Jesus Refuerzo\Medina Jesus Refuerzo.cpp(34,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\MedNo\OneDrive\Escritorio\Medina Jesus Refuerzo\Medina Jesus Refuerzo\Medina Jesus Refuerzo.cpp(34,57): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\MedNo\OneDrive\Escritorio\Medina Jesus Refuerzo\Medina Jesus Refuerzo\Medina Jesus Refuerzo.cpp(41,36): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\MedNo\OneDrive\Escritorio\Medina Jesus Refuerzo\Medina Jesus Refuerzo\Medina Jesus Refuerzo.cpp(41,63): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\MedNo\OneDrive\Escritorio\Medina Jesus Refuerzo\Medina Jesus Refuerzo\Medina Jesus Refuerzo.cpp(65,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\MedNo\OneDrive\Escritorio\Medina Jesus Refuerzo\Medina Jesus Refuerzo\Medina Jesus Refuerzo.cpp(76,52): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\MedNo\OneDrive\Escritorio\Medina Jesus Refuerzo\Medina Jesus Refuerzo\Medina Jesus Refuerzo.cpp(76,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\MedNo\OneDrive\Escritorio\Medina Jesus Refuerzo\Medina Jesus Refuerzo\Medina Jesus Refuerzo.cpp(76,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\MedNo\OneDrive\Escritorio\Medina Jesus Refuerzo\Medina Jesus Refuerzo\Medina Jesus Refuerzo.cpp(76,21): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\MedNo\OneDrive\Escritorio\Medina Jesus Refuerzo\Medina Jesus Refuerzo\Medina Jesus Refuerzo.cpp(77,104): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Medina Jesus Refuerzo.vcxproj -> C:\Users\MedNo\OneDrive\Escritorio\Medina Jesus Refuerzo\Debug\Medina Jesus Refuerzo.exe
