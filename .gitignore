@@ -38,3 +38,6 @@ Browse.VC.db
 *.iml
 __pycache__/
 *.pyc
+
+# Archivo de idioma que trae Inno Setup, no es código del proyecto.
+*.isl
