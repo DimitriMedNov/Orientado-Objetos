@@ -1,2 +1,0 @@
-C:\Users\MedNo\OneDrive\Escritorio\Clase Date\Clase Date\obj\Debug\Clase Date.csprojAssemblyReference.cache
-C:\Users\MedNo\OneDrive\Escritorio\Clase Date\Clase Date\obj\Debug\Clase Date.csproj.CoreCompileInputs.cache

@@ -1,0 +1,40 @@
+# Salidas de compilación: se regeneran al compilar y no deben versionarse.
+bin/
+obj/
+Debug/
+Release/
+x64/
+target/
+
+# Caché de Visual Studio: las cabeceras precompiladas pesaban 34 MB cada una.
+.vs/
+*.ipch
+*.pch
+*.sdf
+*.suo
+*.opendb
+Browse.VC.db
+*.tlog
+*.lastbuildstate
+
+# Binarios y símbolos
+*.exe
+*.dll
+*.lib
+*.exp
+*.obj
+*.o
+*.pdb
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.res
+*.class
+*.jar
+
+# IDEs
+.idea/
+*.iml
+__pycache__/
+*.pyc
